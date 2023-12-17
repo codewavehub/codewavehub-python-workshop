@@ -16,6 +16,7 @@ A Python workshop Which is being hosted by CodeWave Hub, to build cool projects.
 - Install [VS Code](https://code.visualstudio.com/Download)
 - In the VS code terminal install OpenCV by typing `pip install opencv_python`
 - Install mediapipe by `pip install mediapipe`
+- Follow the code in [`keyinput`](https://github.com/LIEThyd/codewavehub-python-workshop/blob/main/keyinputs.py)
 
 ## Connect with us
 [Discord](https://discord.gg/xdJQWwpQMU) , [Instagram](https://www.instagram.com/codewavehub/)
