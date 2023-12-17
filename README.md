@@ -10,6 +10,13 @@ A Python workshop Which is being hosted by CodeWave Hub, to build cool projects.
 
 ![PY-banner](https://github.com/LIEThyd/codewavehub-python-workshop/assets/100799939/0100606a-22f8-419c-bda9-4c1119e77c22)
 
+## Getting Started
+
+- Install [**Python version**](https://www.python.org/downloads/release/python-387/) `3.8.7`
+- Install [VS Code](https://code.visualstudio.com/Download)
+- In the VS code terminal install OpenCV by typing `pip install opencv_python`
+- Install mediapipe by `pip install mediapipe`
+
 ## Connect with us
 [Discord](https://discord.gg/xdJQWwpQMU) , [Instagram](https://www.instagram.com/codewavehub/)
 
